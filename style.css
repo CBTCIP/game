@@ -11,8 +11,8 @@ h2{
 }
 
 .btn{
-    height: 200px;
-    width: 200px;
+    height: 13rem;
+    width: 13rem;
     border: 7px solid black;
     margin: 30px 30px 40px 30px;
     border-radius: 20%;
@@ -51,8 +51,8 @@ h2{
 }
 
 .submit{
-    height: 50px;
-    width: 100px; 
+    height: 5rem;
+    width: 7rem; 
     margin-left: 46.5%;
     background-color: aqua;
     border: 3px solid black;
